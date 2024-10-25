@@ -1,0 +1,5 @@
+Lib/
+Scripts/
+.ipynb_checkpoints/
+fine_tuned_gpt2/
+*.csv
